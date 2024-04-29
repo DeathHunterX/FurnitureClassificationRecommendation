@@ -1,2 +1,2 @@
-AlexNet model: __
-CNN Self Build Number 01: 89%
+AlexNet model: 
+CNN Self Build Number 01: 
