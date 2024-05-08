@@ -1,5 +1,13 @@
+# Data
 Furniture_Data/
+CrawledData/
 __MACOSX/
+
+# Training Model
 TrainingModels/
+
+# zip file
 Furniture_Data.zip
+
+# CSV Data File
 *.csv
